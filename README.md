@@ -25,5 +25,5 @@ To run the project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/nandini-queen-of-my-world/Hospital_management.git
+   cd Hospital_management

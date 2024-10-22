@@ -1,0 +1,24 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f0f2f6;
+    color: #1f2d3d;
+}
+
+.block-container {
+    padding: 1rem 2rem;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #007bff;
+}
+
+footer {
+    text-align: center;
+    margin-top: 2rem;
+    color: #888;
+}

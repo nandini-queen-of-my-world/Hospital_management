@@ -1,4 +1,6 @@
 streamlit
 pandas
 psycopg2-binary
+streamlit_lottie
 streamlit_extras
+
